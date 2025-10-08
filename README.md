@@ -50,7 +50,15 @@ python3 main.py --model MMLNet --weight_decay 0.005 --train_batch_size 16 --dev_
 If this project helps your research, please consider citing the following papers:
 
 ```
-
+@misc{zhou2025robustrealiblemultimodalfake,
+      title={Towards Robust and Realible Multimodal Fake News Detection with Incomplete Modality}, 
+      author={Hengyang Zhou and Yiwei Wei and Jian Yang and Zhenyu Zhang},
+      year={2025},
+      eprint={2510.05839},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2510.05839}, 
+}
 ```
 
 If you use the weibo dataset, please cite the paper below:

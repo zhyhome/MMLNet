@@ -22,7 +22,6 @@ scikit-learn==1.0.2
 ```
 
 ---
-
 ## Data Preparation
 
 Download and prepare the datasets from the following sources:

@@ -1,4 +1,4 @@
-# MMLNet
+# MMLNet:Towards Robust and Realible Multimodal Misinformation Recognition with Incomplete Modality
 #### If you have any questions, don't hesitate to get in touch with us: hengyangzhou@smail.nju.edu.cn
 ---
 
